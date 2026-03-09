@@ -2,6 +2,12 @@
 
 DIS9079 Interacciones inalámbricas, primer semestre 2026
 
+lunes, 2:30 a 5:20pm
+
+02:30pm a 04:00pm - primera parte
+04:00 a  04:20pm - descanso
+04:20 a 05:20pm - segunda parte
+
 ## Equipo docente
 
 * Aarón Montoya <https://github.com/montoyamoraga>: profesore
